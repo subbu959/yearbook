@@ -1,5 +1,4 @@
 import React from 'react';
-import reactDOM from 'react-dom';
 export default function Hero(){
     return(
         <div className="hero">
