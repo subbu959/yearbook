@@ -1,4 +1,4 @@
-export default[
+const data=[
     {
         image:"https://niva.vidyanikethan.edu/Photographs/17121A05D4.jpg",
         rollno:"17121A05D4",
@@ -402,3 +402,4 @@ export default[
         },
         
 ]
+export default data 
