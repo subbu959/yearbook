@@ -22,13 +22,6 @@ const data=[
         rollno:"17121A05D7",
         name:"NALLANI HARISHA",
         },
-        
-        {
-        image:"https://niva.vidyanikethan.edu/Photographs/17121A05D8.jpg",
-        rollno:"17121A05D8",
-        name:"NALLANI HARISHA",
-        },
-        
         {
         image:"https://niva.vidyanikethan.edu/Photographs/17121A05D9.jpg",
         rollno:"17121A05D9",
@@ -358,13 +351,6 @@ const data=[
         rollno:"17121A05K3",
         name:"SHAIK CHAND BASHA",
         },
-        
-        {
-        image:"https://niva.vidyanikethan.edu/Photographs/17121A05K4.jpg",
-        rollno:"17121A05K4",
-        name:"SHAIK CHAND BASHA",
-        },
-        
         {
         image:"https://niva.vidyanikethan.edu/Photographs/17121A05K5.jpg",
         rollno:"17121A05K5",
