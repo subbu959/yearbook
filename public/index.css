@@ -15,10 +15,8 @@ body{
 
 .card{
 
-width: 415px;
-height: 170px;
-margin:18px 40px 18px 40px;
-display: flex;
+padding: 20px 30px;
+margin:20px 40px ;
 background-color:paleturquoise;
 border-radius:15px;
 box-shadow: 5px 5px blueviolet;
@@ -37,4 +35,5 @@ box-shadow: 5px 5px blueviolet;
   flex-direction: row;
   flex-wrap: wrap;
   flex-shrink:3;
+  margin-left:30px;
 }
